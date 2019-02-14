@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2019-02-14T10:06:29.432+05:30[Asia/Calcutta]","0.0","3.11"
+"Tags test","This test will verify if a status code of 200 is returned for GET request","SUCCESS","2019-02-14T10:06:33.526+05:30[Asia/Calcutta]","0.0","0.55"
